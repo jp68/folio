@@ -562,6 +562,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="credits_pol">seba112</string>
     <string name="credits_pol_description">Polski</string>
+   
+    <string name="credits_rom">Iulian Szidelo</string>
+    <string name="credits_rom_description">Romanian</string>
     
     <string name="help_trans">Help Translate</string>
     <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
