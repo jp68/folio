@@ -566,7 +566,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="silent">Fara sunet</string>
     <string name="vibrate">Vibreaza</string>
     <string name="led_light">Lumina de notificare</string>
-    <string name="led_color">Culoare luminii de evertizare</string>
+    <string name="led_color">Culoarea luminii de avertizare</string>
     <string name="led_color_description">Culoarea curenta: %s.</string>
     <string name="notifications_extra">Aditionale</string>
     <string name="notifications_everywhere">Sa fiu mereu notificat</string>
