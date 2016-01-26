@@ -12,9 +12,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="action_settings">Setari</string>
     <string name="end">Iesire cont</string>
     <!-- Close Drawer -->
-    <string name="closeDrawer">Scurtaturi de navigare.</string>
+    <string name="closeDrawer">Ascunde scurtaturile de navigare.</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Ascunde scurtaturile de navigare.</string>
+    <string name="openDrawer">Arata scurtaturile de navigare.</string>
     
     <!-- Close The App -->
     <string name="exit">Inchidere</string>
@@ -123,7 +123,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="xxl_font">Marime litera gigant</string>
     
     <string-array name="font_choice">
-       	<item>Marime Litera implicita</item>
+       	<item>Marime litera implicita</item>
         <item>Marime litera medie</item>
         <item>Marime litera mare</item>
         <item>Marime litera foarte mare</item>
@@ -538,8 +538,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_trukish">Vinícius Rubens Pedrinho</string>
     <string name="credits_trukish_description">Português de Brasil</string>
     
-    <string name="help_trans">Help Translate</string>
-    <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
+    <string name="help_trans">Ajuta la traducere</string>
+    <string name="help_trans_hint">Apasa aici pentru a traduce Folio in limba ta.</string>
    
     
         
@@ -694,8 +694,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
          
-    <string name="interval_pref">Numarul de notificari &amp; Sync Service</string>
-    <string name="interval_pref_description">Notificarile &amp; numarul de notificari va fi verificat la fiecare %s.</string>
+    <string name="interval_pref">Notificari &amp; serviciul de sincronizare</string>
+    <string name="interval_pref_description">Notificarile &amp; numarul acestora va fi verificat la fiecare %s.</string>
           
                  
         <string-array name="update_interval">
@@ -725,7 +725,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="not_valid_message">Aceasta versiune de Folio nu este de pe Google Play si nu va functiona.</string>
     <string name="get_from_play">Google Play</string>
     
-    <string name="people_you">Persoane pe care le-ai putea cunoaste</string>
+    <string name="people_you">Persoane posibil cunoscute</string>
     <string name="people_you_hint">Ascunde persoanele pe care le-ai putea cunoaste. (BETA)</string>
     
     <string name="download_manager_disabled">Managerul de fisiere descarcate e dezactivat. Activeaza-l.</string>
