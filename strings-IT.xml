@@ -745,21 +745,21 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="people_you">Persone che potresti conoscere</string>
     <string name="people_you_hint">Nascondi i suggerimenti sulle persone. (BETA)</string>
     
-    <string name="download_manager_disabled">Il DownloadManager à disabilitato. Per favore abilitalo.</string>
+    <string name="download_manager_disabled">Il DownloadManager è disabilitato. Per favore abilitalo.</string>
     <string name="cannot_access_storage">Accesso alla memoria esterna negato.</string>
     <string name="file_cannot_be_saved">Un file non puà essere salvato</string>
     <string name="camera_exception">Problema con la fotocamera</string>
     
     
     
-    <string name="addPage">Add to Favorites</string>
-    <string name="removePage">Remove remove from Favorites</string>
+    <string name="addPage">Aggiungi ai Preferiti</string></string>
+    <string name="removePage">Rimuovi dai Preferiti</string>
     
-    <string name="open_link_title">Open Links</string>
-    <string name="open_link_hint">Open external links in Folio</string>
+    <string name="open_link_title">Apertura Link</string>
+    <string name="open_link_hint">Apri i Link esterni direttamente da Folio</string>
     
-    <string name="remember_title">News Feed Position (Beta)</string>
-    <string name="remember_hint">Remember your News Feed postion.</string>
+    <string name="remember_title">Posizione News Feed (Beta)</string>
+    <string name="remember_hint">Ricorda la posizione del tuo News Feed.</string>
     
     
     
