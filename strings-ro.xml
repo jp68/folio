@@ -566,6 +566,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="silent">Fara sunet</string>
     <string name="vibrate">Vibreaza</string>
     <string name="led_light">Lumina de notificare</string>
+    <string name="led_color">Culoarea luminii de avertizare</string>
+    <string name="led_color_description">Culoarea curenta: %s.</string>
     <string name="notifications_extra">Aditionale</string>
     <string name="notifications_everywhere">Sa fiu mereu notificat</string>
     <string name="notifications_everywhere_description">Chiar si cand folosesc Folio.</string>
@@ -733,7 +735,17 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="file_cannot_be_saved">Un fisier nu poate fi salvat.</string>
     <string name="camera_exception">Probleme cu camera</string>
     
+    <!-- Folio Favorites -->
     
+    <string name="open_link_title">Deschide adresele</string>
+    <string name="open_link_hint">Deschide adresele externe in Folio.</string>
+    
+    <string name="addPage">Adauga la favorite</string>
+    <string name="removePage">Sterge din favorite</string>
+    
+    <string name="remember_title">Pozitia fluxului de informatii (Beta)</string>
+    <string name="remember_hint">Tine minte pozitia fluxului de informatii.</string>
+    <string name="faq">Intrebari frecvente</string>    
     
     
           
