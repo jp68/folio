@@ -521,25 +521,34 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- All About Translations  -->
     
-    <string name="preference_category12">Translations</string> 
+    <string name="preference_category12">Traduceri</string> 
            
     <string name="credits_italian">Fabio Catinella</string>
-    <string name="credits_italian_description">Italiano</string>
+    <string name="credits_italian_description">Italiana</string>
     
     <string name="credits_spanish">Marco Rubio Asensio</string>
-    <string name="credits_spanish_description">Español</string>
+    <string name="credits_spanish_description">Spaniola</string>
     
     <string name="credits_german">Clemens Corell</string>
-    <string name="credits_german_description">Deutsch</string>
+    <string name="credits_german_description">Germana</string>
     
     <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
-    <string name="credits_brazilian_description">Português de Brasil</string>
+    <string name="credits_brazilian_description">Portugheza</string>
     
-    <string name="credits_trukish">Vinícius Rubens Pedrinho</string>
-    <string name="credits_trukish_description">Português de Brasil</string>
+    <string name="credits_turk">Mehmet Çalışkan</string>
+    <string name="credits_turk_description">Turca</string>
+
+    <string name="credits_fren">Jean Philippe</string>
+    <string name="credits_fren_description">Franceza</string>
+    
+    <string name="credits_pol">seba112</string>
+    <string name="credits_pol_description">Poloneza</string>
+   
+    <string name="credits_rom">Iulian Szidelo</string>
+    <string name="credits_rom_description">Romana</string>
     
     <string name="help_trans">Ajuta la traducere</string>
-    <string name="help_trans_hint">Apasa aici pentru a traduce Folio in limba ta.</string>
+    <string name="help_trans_hint">Apasa aici pentru a traduce Folio in alta limba.</string>
    
     
         
