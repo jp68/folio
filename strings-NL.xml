@@ -1,4 +1,4 @@
-<resources>
+﻿<resources>
     
 <!--Copyright (C) 2014-2015 Jorell Rutledge/Creative Trends.
 This file is originally apart of Folio for Facebook.
@@ -23,19 +23,19 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="customize_folio_hint">Verander uiterlijk en layout.</string>
     <string name="tap_to_set">Tap om veranderingen toe te passen</string>
    
-    <string name="status_updated">Status ge&uuml;pdate.</string>
+    <string name="status_updated">Status geüpdatet.</string>
     
     
     <!-- FAB LABELS -->
     <string name="update_status">Post Status</string>
-    <string name="update_photo">Foto's toevoegen</string>
+    <string name="update_photo">Foto\'s toevoegen</string>
     <string name="update_share">Nu delen</string>
     
     <string name="license_success">Thema\'s geactiveerd</string>
     <string name="license_failed">Thema\'s uitgeschakeld</string>
     
     <string name="show_fab">Weergeef een FAB</string>
-    <string name="show_fab_hint">Weergeef een zwevende actie knop om status updates te posten op Facebook via Folio. Wanneer dit wordt gebruikt in de standaard layout zal de FAB niet worden verborgen. Wanneer de facebook balk en toolbar zijn verwijderd wordt de FAB wel verborgen. Dit schakelt de Facebook thema's en layouts uit. Deze optie is momenteel ook erg buggy.</string>
+    <string name="show_fab_hint">Weergeef een zwevende actie knop om status updates te posten op Facebook via Folio. Wanneer dit wordt gebruikt in de standaard layout zal de FAB niet worden verborgen. Wanneer de facebook balk en toolbar zijn verwijderd wordt de FAB wel verborgen. Dit schakelt de Facebook thema\'s en layouts uit. Deze optie is momenteel ook erg buggy.</string>
     
     <string name="loading_video">Laden.</string>
     
@@ -423,11 +423,11 @@ Copyright notice must remain here if you're using any part of this code.-->
     
             
     <!-- Random Strings Part 2 -->
-    <string name="preference_category4">Folio Thema's</string>
+    <string name="preference_category4">Folio Thema\'s</string>
    
     
     
-    <string name="donate_jorell"><![CDATA[Steun de ontwikkeling & ontgrendel features]]></string>
+    <string name="donate_jorell">Steun de ontwikkeling &amp; ontgrendel features</string>
     <string name="donate_jorell_description">Help me wakker te blijven om meer code te schrijven.</string>
     <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
     <string name="donate_jorell_about">Koop een kop koffie voor mij</string>
