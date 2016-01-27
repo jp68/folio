@@ -14,7 +14,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- Close Drawer -->
     <string name="closeDrawer">Tampilan Navigasi</string>
     <!-- Open Drawer -->
-    <string name="openDrawer">Buka Drawer Kiri</string>
+    <string name="openDrawer">Buka Laci Kiri</string>
     
     <!-- Close The App -->
     <string name="exit">Tutup</string>
@@ -141,8 +141,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="fb_chat">Teman Aktif</string>
     <string name="fb_recent">Paling Terkini</string>
     <string name="refresh">Segarkan</string>
-    <string name="notifications">Notifikasi</string>
-    <string name="notifications_about_hint">Atur notifikasi.</string>
+    <string name="notifications">Pemberitahuan</string>
+    <string name="notifications_about_hint">Atur pemberitahuan.</string>
     <string name="search">Cari di Facebook</string>
     
     
@@ -578,36 +578,36 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- All About Notifications -->
     
-    <string name="preference_category5">General</string>
-    <string name="activate_notifications">Facebook Notifications</string>
-    <string name="activate_messages">Message Notifications</string>
-    <string name="activate_friends">Friend Request Notifications</string>    
-    <string name="notifications_service_created">Notifications Activated</string>
-    <string name="notifications_settings">Notifications</string>
-    <string name="all_notifications">View Notifications</string>
-    <string name="all_messages">View Messages</string>
-    <string name="all_requests">View Friend Requests</string>
-    <string name="notification_sound">Notification Sound</string>
-    <string name="notification_sound_description">Current: \u0020</string>
-    <string name="message_sound">Message Notification Sound</string>
-    <string name="message_sound_description">Current: \u0020</string>
-    <string name="silent">No Sound</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="led_light">Notification LED</string>
-    <string name="led_color">LED light color</string>
-    <string name="led_color_description">Current LED color: %s.</string>
-    <string name="notifications_extra">Additional</string>
-    <string name="notifications_everywhere">Always Be Notified</string>
-    <string name="notifications_everywhere_description">Even when you\'re using Folio.</string>
+    <string name="preference_category5">Umum</string>
+    <string name="activate_notifications">Pemberitahuan Facebook</string>
+    <string name="activate_messages">Pemberitahuan Pesan</string>
+    <string name="activate_friends">Pemberitahuan Permintaan Pertemanan</string>    
+    <string name="notifications_service_created">Pemberitahuan Diaktifkan</string>
+    <string name="notifications_settings">Pemberitahuan</string>
+    <string name="all_notifications">Lihat Pemberitahuan</string>
+    <string name="all_messages">Lihat Pesan</string>
+    <string name="all_requests">Lihat Permintaan Pertemanan</string>
+    <string name="notification_sound">Suara Pemberitahuan</string>
+    <string name="notification_sound_description">Saat ini: \u0020</string>
+    <string name="message_sound">Suara Pemberitahuan Pesan</string>
+    <string name="message_sound_description">Saat ini: \u0020</string>
+    <string name="silent">Tidak Ada Suara</string>
+    <string name="vibrate">Getar</string>
+    <string name="led_light">LED Pemberitahuan</string>
+    <string name="led_color">Warna Lampu LED</string>
+    <string name="led_color_description">Warna LED saat ini: %s.</string>
+    <string name="notifications_extra">Tambahan</string>
+    <string name="notifications_everywhere">Selalu Diberitahu</string>
+    <string name="notifications_everywhere_description">Walaupun saat menggunakan Folio.</string>
     <string name="get_key">https://play.google.com/store/apps/details?id=com.creativetrends.folio.app.key</string>
     
    	
 	
-	<string name="friend_request">&#160;new friend request</string>
-	<string name="friend_requests">&#160;new friend requests</string>
+	<string name="friend_request">&#160;permintaan teman baru</string>
+	<string name="friend_requests">&#160;permintaan teman baru</string>
 	
-	<string name="new_notification">&#160;new notification</string>
-	<string name="new_notifications">&#160;new notifications</string>
+	<string name="new_notification">&#160;Pemberitahuan baru</string>
+	<string name="new_notifications">&#160;Pemberitahuan baru</string>
 	
 		
 	
@@ -615,65 +615,65 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- ALL ABOUT THEMES-->
     
     
-    <string name="choose_font_facebook">Facebook Font Size</string>
-    <string name="choose_font_facebook_hint">Current font size: %s</string>
+    <string name="choose_font_facebook">Ukuran Huruf Facebook</string>
+    <string name="choose_font_facebook_hint">Ukuran huruf sekarang: %s</string>
     
     
-   <string name="preference_category3">Facebook Themes</string>
+   <string name="preference_category3">Tema Facebook</string>
     
-    <string name="dark_theme">Black Theme</string>
+    <string name="dark_theme">Tema Hitam</string>
     
-    <string name="dark_theme_description">Turn on black theme.</string>
+    <string name="dark_theme_description">Aktifkan tema hitam.</string>
     
-    <string name="red_theme">Android Studio Theme</string>
+    <string name="red_theme">Tema Android Studio</string>
     
-    <string name="red_theme_description">Turn on Dracula theme.</string>
+    <string name="red_theme_description">Aktifkan tema Dracula.</string>
      
     
           
           
    	<string-array name="pref_theme_entries">
-        <item>Folio Theme</item>
-        <item>Folio Theme Dark Drawer</item>
-        <item>Pink Theme</item>
-        <item>Pink Theme Dark Drawer</item>
-        <item>Purple Theme</item>
-        <item>Purple Theme Dark Drawer</item>
-        <item>Deep Purple Theme</item>
-        <item>Deep Purple Theme Dark Drawer</item>
-        <item>Dark Theme</item>
-        <item>Orange Theme</item>
-        <item>Orange Theme Dark Drawer</item>
-        <item>Deep Orange Theme</item>
-        <item>Deep Orange Theme Dark Drawer</item>
-        <item>Falcon Theme</item>
-        <item>Falcon Theme Dark Drawer</item>
-        <item>Lime Theme</item>
-        <item>Lime Theme Dark Drawer</item>
-        <item>Green Theme</item>
-        <item>Green Theme Dark Drawer</item>
-        <item>Light Green Theme</item>
-        <item>Light Green Theme Dark Drawer</item>
-        <item>Amber Theme</item>
-        <item>Amber Theme Dark Drawer</item>
-        <item>Yellow Theme</item>
-        <item>Yellow Theme Dark Drawer</item>
-        <item>Red Theme</item>
-        <item>Red Theme Dark Drawer</item>
-        <item>Blue Theme</item>
-        <item>Blue Theme Dark Drawer</item>
-        <item>Light Blue Theme</item>
-        <item>Light Blue Theme Dark Drawer</item>
-        <item>Cyan Theme</item>
-        <item>Cyan Theme Dark Drawer</item>
-        <item>Teal Theme</item>
-        <item>Teal Theme Dark Drawer</item>
-        <item>Brown Theme</item>
-        <item>Brown Theme Dark Drawer</item>
-        <item>Grey Theme</item>
-        <item>Grey Theme Dark Drawer</item>
-        <item>Blue Grey Theme</item>
-        <item>Blue Grey Theme Dark Drawer</item>
+        <item>Tema Folio</item>
+        <item>Tema Folio Drawer Gelap</item>
+        <item>Tema Merah Muda</item>
+        <item>Tema Merah Muda Drawer Gelap</item>
+        <item>Tema Ungu</item>
+        <item>Tema Ungu Drawer Gelap</item>
+        <item>Tema Ungu Tua</item>
+        <item>Tema Ungu Tua Drawer Gelap</item>
+        <item>Tema Gelap</item>
+        <item>Tema Oranye</item>
+        <item>Tema Oranye Drawer Gelap</item>
+        <item>Tema Oranye Tua</item>
+        <item>Tema Oranye Tua Drawer Gelap</item>
+        <item>Tema Falcon</item>
+        <item>Tema Falcon Drawer Gelap</item>
+        <item>Tema Lime</item>
+        <item>Tema Lime Drawer Gelap</item>
+        <item>Tema Hijau</item>
+        <item>Tema Hijau Drawer Gelap</item>
+        <item>Tema Hijau Muda</item>
+        <item>Tema Hijau Muda Drawer Gelap</item>
+        <item>Tema Amber</item>
+        <item>Tema Amber Drawer Gelap</item>
+        <item>Tema Kuning</item>
+        <item>Tema Kuning Drawer Gelap</item>
+        <item>Tema Merah</item>
+        <item>Tema Merah Drawer Gelap</item>
+        <item>Tema Biru</item>
+        <item>Tema Biru Drawer Gelap</item>
+        <item>Tema Biru Muda</item>
+        <item>Tema Biru Muda Drawer Gelap</item>
+        <item>Tema Cyan</item>
+        <item>Tema Cyan Drawer Gelap</item>
+        <item>Tema Teal</item>
+        <item>Tema Teal Drawer Gelap</item>
+        <item>Tema Coklat</item>
+        <item>Tema Coklat Drawer Gelap</item>
+        <item>Tema Abu-abu</item>
+        <item>Tema Abu-abu Drawer Gelap</item>
+        <item>Tema Biru Abu-abu</item>
+        <item>Tema Biru Abu-abu Drawer Gelap</item>
         
             
         
@@ -684,58 +684,58 @@ Copyright notice must remain here if you're using any part of this code.-->
    	   
    	
    	<string-array name="pref_theme_fb_entries">
-    <item>Facebook Theme</item>              
-   	<item>Black Theme</item>
-   	<item>Dracula Theme</item>   
+    <item>Tema Facebook</item>              
+   	<item>Tema Hitam</item>
+   	<item>Tema Dracula</item>   
         
     </string-array>
 
    	
-   	<string name="quick_bar">QuickBar</string>
-   	<string name="quick_bar_hint">Show Folio QuickBar?</string>
+   	<string name="quick_bar">Bar Cepat</string>
+   	<string name="quick_bar_hint">Tampilkan Bar Cepat Folio?</string>
    	
-   	<string name="quick_bar_on">QuickBar is now on.</string>
+   	<string name="quick_bar_on">Bar Cepat sekarang dinyalakan.</string>
    	
-   	<string name="quick_bar_off">QuickBar is now off.</string>
+   	<string name="quick_bar_off">Bar Cepat sekarang dimatikan.</string>
    	
    	       
-    <string name="no_images">Disable Images</string>
-    <string name="no_images_hint">Reduce data usage be removing images.</string>
+    <string name="no_images">Matikan Gambar</string>
+    <string name="no_images_hint">Kurangi pemakaian data dengan menghilangkan gambar.</string>
       
         
-    <string name="hide_bar">Remove Facebook Bar</string>
+    <string name="hide_bar">Hilangkan Bar Facebook</string>
     
     
-    <string name="choose_theme_folio">Choose App Theme</string>
-    <string name="choose_theme_facebook">Choose Facebook Theme</string>
-    <string name="choose_theme_folio_hint">Current theme: %s</string>
+    <string name="choose_theme_folio">Pilih Tema Aplikasi</string>
+    <string name="choose_theme_facebook">Pilih Tema Facebook</string>
+    <string name="choose_theme_folio_hint">Tema sekarang: %s</string>
       
     
-    <string name="hidden_bar">Hide Toolbar</string>
+    <string name="hidden_bar">Sembunyikan Toolbar</string>
     
-   <string name="sync_problem">Awe snap! That\'s an error. Folio couldn\'t get your notifications. Please close and reopen Folio.</string>
+   <string name="sync_problem">Aww snap! Terjadi kesalahan. Folio tidak bisa mendapatkan pemberitahuan anda. Mohon Tutup & buka Folio kembali.</string>
    
-   <string name="you_have_one_message">You have 1 new message</string>
-  <string name="you_have_n_messages">You have %d new messages</string>
+   <string name="you_have_one_message">Anda punya 1 pesan baru</string>
+  <string name="you_have_n_messages">Anda punya %d pesan baru</string>
   
-  	<string name="file_logger">Save logs to a file</string>
-    <string name="file_logger_description">Save Notification Service logs to an external memory. It needs a storage permission.</string>
-    <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved.</string>
+  	<string name="file_logger">Simpan logs ke berkas</string>
+    <string name="file_logger_description">Simpan log Layanan Pemberitahuan ke penyimpanan eksternal. Ini akan membutuhkan perijinan penyimpanan.</string>
+    <string name="file_logger_needs_permission">Tidak ada akses ke penyimpanan eksternal. Log tidak dapat disimpan.</string>
     
     
          
-    <string name="interval_pref">Badge &amp; Sync Service</string>
-    <string name="interval_pref_description">Notifications &amp; badges will be checked every %s.</string>
+    <string name="interval_pref">Badge &amp; Sinkronisasi Layanan</string>
+    <string name="interval_pref_description">Notifikasi &amp; lencana akan diperiksa setiap %s.</string>
           
                  
         <string-array name="update_interval">
-       	<item>5 seconds</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>3 hours</item>
-        <item>6 hours</item>        
+       	<item>5 detik</item>
+        <item>2 menit</item>
+        <item>5 menit</item>
+        <item>30 menit</item>
+        <item>1 jam</item>
+        <item>3 jam</item>
+        <item>6 jam</item>        
     </string-array>
     
     <string-array name="update_interval_values">
@@ -750,28 +750,28 @@ Copyright notice must remain here if you're using any part of this code.-->
 
     
     
-    <string name="not_valid_title">Not Valid</string>
-    <string name="not_valid_message">This version of Folio is not from the Play Store and will not function.</string>
+    <string name="not_valid_title">Tidak Valid</string>
+    <string name="not_valid_message">Versi Folio ini tidak berasal dari Play Store dan tidak bisa berfungsi.</string>
     <string name="get_from_play">Google Play</string>
     
-    <string name="people_you">People You May Know</string>
-    <string name="people_you_hint">Hide people you may know. (BETA)</string>
+    <string name="people_you">Orang Yang Mungkin Anda tahu</string>
+    <string name="people_you_hint">sembunyikan Orang yang mungkin anda tahu. (BETA)</string>
     
-    <string name="download_manager_disabled">DownloadManager is disabled. Please enable it.</string>
-    <string name="cannot_access_storage">No access to external storage</string>
-    <string name="file_cannot_be_saved">A file cannot be saved</string>
-    <string name="camera_exception">Problems with a camera</string>
+    <string name="download_manager_disabled">DownloadManager tidak aktif. Harap diaktifkan.</string>
+    <string name="cannot_access_storage">Tidak ada akses ke penyimpanan eksternal</string>
+    <string name="file_cannot_be_saved">Berkas tidak dapat disimpan</string>
+    <string name="camera_exception">Permasalahan dengan kamera</string>
     
     <!-- Folio Favorites -->
     
-    <string name="open_link_title">Open Links</string>
-    <string name="open_link_hint">Open external links in Folio</string>
+    <string name="open_link_title">Buka Link</string>
+    <string name="open_link_hint">Buka link eksternal di Folio</string>
     
-    <string name="addPage">Add to Favorites</string>
-    <string name="removePage">Remove remove from Favorites</string>
+    <string name="addPage">Tambahkan ke Favorit</string>
+    <string name="removePage">Hapus dari Favorit</string>
     
-    <string name="remember_title">News Feed Position (Beta)</string>
-    <string name="remember_hint">Remember your News Feed position.</string>
+    <string name="remember_title">Posisi Umpan Berita (Beta)</string>
+    <string name="remember_hint">Ingat Posisi Umpan Berita Anda.</string>
     <string name="faq">FAQ\'s</string>
     
           
