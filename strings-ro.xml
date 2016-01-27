@@ -534,6 +534,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
     <string name="credits_brazilian_description">Portugheza</string>
+    
+    <string name="credits_turk">Mehmet Çalışkan</string>
+    <string name="credits_turk_description">Turca</string>
 
     <string name="credits_fren">Jean Philippe</string>
     <string name="credits_fren_description">Franceza</string>
