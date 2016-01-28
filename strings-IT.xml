@@ -433,7 +433,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="donate_jorell">Supporta lo Sviluppo</string>
     <string name="donate_jorell_description">Se ti piace il nostro lavoro,considera una donazione.</string>
     <string name="donate_jorell_link" translatable="true">http://paypal.me/creativetrends</string>
-    <string name="donate_jorell_about">Offrimi un caffà</string>
+    <string name="donate_jorell_about">Offrimi un caffè</string>
    	
    	
     
@@ -550,11 +550,20 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_german">Clemens Corell</string>
     <string name="credits_german_description">Tedesco</string>
     
-    <string name="credits_brazilian">Vinà­cius Rubens Pedrinho</string>
+    <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
     <string name="credits_brazilian_description">Portoghese</string>
     
-    <string name="credits_trukish">Anonymous</string>
-    <string name="credits_trukish_description">Turco</string>
+    <string name="credits_turk">Mehmet Çalışkan</string>
+    <string name="credits_turk_description">Turco</string>
+    
+    <string name="credits_fren">Jean Philippe</string>
+    <string name="credits_fren_description">Francese</string>
+    
+    <string name="credits_pol">seba112</string>
+    <string name="credits_pol_description">Polacco</string>
+   
+    <string name="credits_rom">Iulian Szidelo</string>
+    <string name="credits_rom_description">Rumeno</string>
     
     <string name="help_trans">Aiutaci a Tradurre</string>
     <string name="help_trans_hint">Tocca qui per aiutarci a tradurre Folio nella tua lingua.</string>
@@ -584,6 +593,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="silent">Silenzioso</string>
     <string name="vibrate">Vibrazione</string>
     <string name="led_light">LED di notifica</string>
+    <string name="led_color">Colore LED</string>
+    <string name="led_color_description">Colore attuale: %s.</string>	
     <string name="notifications_extra">Extra</string>
     <string name="notifications_everywhere">Sii sempre notificato</string>
     <string name="notifications_everywhere_description">Anche quando usi Folio.</string>
@@ -602,6 +613,8 @@ Copyright notice must remain here if you're using any part of this code.-->
              
     <!-- ALL ABOUT THEMES-->
     
+    <string name="choose_font_facebook">Dimensione Font Facebook</string>
+    <string name="choose_font_facebook_hint">La dimensione attuale è: %s</string>
     
     <string name="choose_theme_facebook">Scegli tema Facebook</string>
     <string name="choose_theme_facebook_hint">Tema Attuale: %s</string>
@@ -621,47 +634,47 @@ Copyright notice must remain here if you're using any part of this code.-->
           
           
    	<string-array name="pref_theme_entries">
-        <item>Folio Theme</item>
-        <item>Folio Theme Dark Drawer</item>
-        <item>Pink Theme</item>
-        <item>Pink Theme Dark Drawer</item>
-        <item>Purple Theme</item>
-        <item>Purple Theme Dark Drawer</item>
-        <item>Deep Purple Theme</item>
-        <item>Deep Purple Theme Dark Drawer</item>
-        <item>Dark Theme</item>
-        <item>Orange Theme</item>
-        <item>Orange Theme Dark Drawer</item>
-        <item>Deep Orange Theme</item>
-        <item>Deep Orange Theme Dark Drawer</item>
-        <item>Falcon Theme</item>
-        <item>Falcon Theme Dark Drawer</item>
-        <item>Lime Theme</item>
-        <item>Lime Theme Dark Drawer</item>
-        <item>Green Theme</item>
-        <item>Green Theme Dark Drawer</item>
-        <item>Light Green Theme</item>
-        <item>Light Green Theme Dark Drawer</item>
-        <item>Amber Theme</item>
-        <item>Amber Theme Dark Drawer</item>
-        <item>Yellow Theme</item>
-        <item>Yellow Theme Dark Drawer</item>
-        <item>Red Theme</item>
-        <item>Red Theme Dark Drawer</item>
-        <item>Blue Theme</item>
-        <item>Blue Theme Dark Drawer</item>
-        <item>Light Blue Theme</item>
-        <item>Light Blue Theme Dark Drawer</item>
-        <item>Cyan Theme</item>
-        <item>Cyan Theme Dark Drawer</item>
-        <item>Teal Theme</item>
-        <item>Teal Theme Dark Drawer</item>
-        <item>Brown Theme</item>
-        <item>Brown Theme Dark Drawer</item>
-        <item>Grey Theme</item>
-        <item>Grey Theme Dark Drawer</item>
-        <item>Blue Grey Theme</item>
-        <item>Blue Grey Theme Dark Drawer</item>
+        <item>Folio</item>
+        <item>Folio con Drawer Scuro</item>
+        <item>Rosa</item>
+        <item>Rosa con Drawer Scuro</item>
+        <item>Porpora</item>
+        <item>Porpora con Drawer Scuro</item>
+        <item>Viola</item>
+        <item>Viola con Drawer Scuro</item>
+        <item>Nero</item>
+        <item>Mandarino</item>
+        <item>Mandarino con Drawer Scuro</item>
+        <item>Arancione</item>
+        <item>Arancione con Drawer Scuro</item>
+        <item>Falcon</item>
+        <item>Falcon con Drawer Scuro</item>
+        <item>Lime</item>
+        <item>Lime con Drawer Scuro</item>
+        <item>Verde</item>
+        <item>Verde con Drawer Scuro</item>
+        <item>Verde Chiaro</item>
+        <item>Verde Chiaro con Drawer Scuro</item>
+        <item>Ambra</item>
+        <item>Ambra con Drawer Scuro</item>
+        <item>Giallo</item>
+        <item>Giallo con Drawer Scuro</item>
+        <item>Rosso</item>
+        <item>Rosso con Drawer Scuro</item>
+        <item>Blu</item>
+        <item>Blu con Drawer Scuro</item>
+        <item>Azzurro</item>
+        <item>Azzurro con Drawer Scuro</item>
+        <item>Ciano</item>
+        <item>Ciano con Drawer Scuro</item>
+        <item>Acqua Marina</item>
+        <item>Acqua Marina con Drawer Scuro</item>
+        <item>Marrone</item>
+        <item>Marrone con Drawer Scuro</item>
+        <item>Grigio</item>
+        <item>Grigio con Drawer Scuro</item>
+        <item>Blu-Grigio</item>
+        <item>Blu-Grigio con Drawer Scuro</item>
         
             
         
