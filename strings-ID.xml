@@ -51,7 +51,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <!-- Folio Drawer -->
     <string name="quickaccess">Akses Cepat</string>
     <string name="newsfeed">Paling Terkini</string>
-    <string name="trending">Trending</string>
+    <string name="trending">Lagi Tren</string>
     <string name="messages">Perpesanan</string>
     <string name="topnews">Berita Utama</string>
     <string name="fbmenu">Menu Facebook</string>
@@ -98,7 +98,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="recent_nav">Hilangkan Paling Terkini</string>
     <string name="top_nav">Hilangkan Berita Utama</string>
     <string name="facebook_nav">Hilangkan Perpesanan</string>
-    <string name="trending_nav">Hilangkan Trending</string>
+    <string name="trending_nav">Hilangkan Lagi Tren</string>
     <string name="friends_nav">Hilangkan Teman</string>
     <string name="groups_nav">Hilangkan Grup</string>
     <string name="pages_nav">Hilangkan Laman</string>
@@ -114,16 +114,16 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     <!-- Fonts -->
     <string name="font_preference">Preferensi huruf Facebook</string>
-    <string name="larger_font_hint">Tingkatkan Increase kemudahan dibaca dengan memperbesar huruf di Facebook. Nonkaktifkan preferensin ukuran huruf anda yang lain agar hal ini dapat berfungsi.</string>
+    <string name="larger_font_hint">Tingkatkan kemudahan dibaca dengan memperbesar huruf di Facebook. Nonaktifkan preferensi ukuran huruf anda yang lain agar hal ini dapat berfungsi.</string>
     <string name="font_set">Tap untuk memulai ulang Folio dengan ukuran huruf pilihan anda.</string>
-    <string name="default_font">Ukuran Huruf Default</string>
+    <string name="default_font">Ukuran Huruf Standar</string>
     <string name="medium_font">Ukuran Huruf Menengah</string>
     <string name="large_font">Ukuran Huruf Besar</string>
     <string name="xl_font">Ukuran Huruf Sangat Besar</string>
     <string name="xxl_font">Ukuran Huruf Sangat-Sangat Besar</string>
     
     <string-array name="font_choice">
-       	<item>Huruf Default</item>
+       	<item>Huruf Standar</item>
        	<item>Huruf Kecil</item>
         <item>Huruf Menengah</item>
         <item>Huruf Besar</item>
@@ -172,9 +172,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="site_preference_hint">Mode saat ini: %s.</string>
     
     
-    <string name="default_mode">Facebook Mobile</string>
-    <string name="basic_mode">Facebook Basic</string>
-    <string name="desktop_mode">Mode Desktop</string>        
+    <string name="default_mode">Facebook Mobil</string>
+    <string name="basic_mode">Facebook Standar</string>
+    <string name="desktop_mode">Modus Desktop</string>        
   
     
    
@@ -397,7 +397,7 @@ Copyright notice must remain here if you're using any part of this code.-->
 	<string name="allrights">Hak cipta dijamin.</string>
 	
 	
-	<string name="about_image">Image Credit: Klyph for Facebook</string>
+	<string name="about_image">Kredit Gambar: Klyph for Facebook</string>
 	
     
      <!-- Random Strings Part 1 -->
@@ -414,7 +414,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="title_activity_about_hint">Pelajari tentang libraries berbeda yang digunakan di Folio. Dapatkan sumbernya di GitHub, gabung dengan kami di Facebook dan banyak lagi.</string>
     
     <string name="email_author">Kirim Umpan Balik</string>    
-    <string name="choose_email_client">Pilih e-mail client</string>    
+    <string name="choose_email_client">Pilih klien e-mail</string>    
     <string name="no_network">Anda tidak sedang online.</string> <!-- You MUST include the \ in your translation. For example... ***You'\re**** is spelled like that -->    
        
     <string name="share_link">Bagi Item Ini</string>    
@@ -439,14 +439,14 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_settings">Kredit</string>
     <string name="preference_category7">Kustomasi</string>
     <string name="preference_about_category">Tentang</string>
-    <string name="preference_set_category">Semua berse?</string>
+    <string name="preference_set_category">Semua beres?</string>
     <string name="preference_donate_category">Beli Kunci Folio</string>
-    <string name="preference_rest_category">Atur Ulang Folio ke Setelan Default</string>
+    <string name="preference_rest_category">Atur Ulang Folio ke Setelan Standar</string>
     <string name="preference_category15">Setelan Tata Letak Folio</string>
     <string name="preference_facebook_layouts">Setelan Tata Letak Facebook</string>
     
     <string name="fixed_nav">tetapkan bar Facebook</string>
-    <string name="fixed_nav_description">Bar navigasi Facebookselalu di atas.</string>
+    <string name="fixed_nav_description">Bar navigasi Facebook selalu di atas.</string>
     
     <string name="credits_licenses">Tap disini untuk membaca lebih lanjut tentang lisensi yang digunakan di Folio.</string>
     <string name="credits_licenses_description">Lisensi Perangkat Lunak terbuka</string>
@@ -482,11 +482,11 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_bejan_link" translatable="true">http://bejank.com</string>
     
     <string name="credits_nam">Nam Nghiem</string>
-    <string name="credits_nam_description">Atas bantuan dengan Foto Sampul. Coba Klien Facebook karyanya.</string>
+    <string name="credits_nam_description">Atas bantuan dengan Foto Sampul. Cobalah Klien Facebook karyanya.</string>
     <string name="credits_nam_link" translatable="true">https://play.google.com/store/apps/details?id=com.nam.fbwrapper&amp;hl=en</string>
     
     <string name="credits_dan">Daniel Velazco/nJames Vento</string>
-    <string name="credits_dan_description">Untuk penggunaan kode tampilan video layar penuh di Tinfoil. Coba Tinfoil for Facebook.</string>
+    <string name="credits_dan_description">Untuk penggunaan kode tampilan video layar penuh di Tinfoil. Cobalah Tinfoil for Facebook.</string>
     <string name="credits_dan_link" translatable="true">https://play.google.com/store/apps/details?id=com.danvelazco.fbwrapper&amp;hl=en</string>
     
         
@@ -507,7 +507,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
     <string name="credits_tykeshia">Tykeshia</string>
-    <string name="credits_tykeshia_description">Yang telah sangat mendukung dan menyemangati sepanjang  beberapa tahun terakhir. Terimakasih telah meminjamkan laptop.</string>
+    <string name="credits_tykeshia_description">Yang telah sangat mendukung dan menyemangati sepanjang  beberapa tahun terakhir. Terimakasih telah meminjamkan laptopnya.</string>
     
     
     <string name="credits_facebook">Facebook Inc.</string>    
@@ -519,7 +519,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_google_link" translatable="true">https://developer.android.com/tools/support-library/features.html</string>
     
     
-    <string name="preference_category10">Software terbuka yang digunakan</string>
+    <string name="preference_category10">Perangkat lunak terbuka yang digunakan</string>
     <string name="preference_category8">Lisensi Terbuka</string> 
      
     <string name="credits_tray">Preferensi Baki</string>
@@ -566,8 +566,11 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_rom">Iulian Szidelo</string>
     <string name="credits_rom_description">Romania</string>
     
+    <string name="credits_pol">Shabet Umar</string>
+    <string name="credits_pol_description">Indonesia</string>
+    
     <string name="help_trans">bantu Alih Bahasa</string>
-    <string name="help_trans_hint">Tap untuk membantu menterjemahkan Folio ke bahasa anda.</string>
+    <string name="help_trans_hint">Tap untuk membantu menerjemahkan Folio ke bahasa anda.</string>
    
     
         
@@ -724,7 +727,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
          
-    <string name="interval_pref">Badge &amp; Sinkronisasi Layanan</string>
+    <string name="interval_pref">Lencana &amp; Sinkronisasi Layanan</string>
     <string name="interval_pref_description">Notifikasi &amp; lencana akan diperiksa setiap %s.</string>
           
                  
@@ -751,13 +754,13 @@ Copyright notice must remain here if you're using any part of this code.-->
     
     
     <string name="not_valid_title">Tidak Valid</string>
-    <string name="not_valid_message">Versi Folio ini tidak berasal dari Play Store dan tidak bisa berfungsi.</string>
+    <string name="not_valid_message">Versi Folio ini tidak berasal dari Play Store dan tidak bisa digunakan.</string>
     <string name="get_from_play">Google Play</string>
     
     <string name="people_you">Orang Yang Mungkin Anda tahu</string>
     <string name="people_you_hint">sembunyikan Orang yang mungkin anda tahu. (BETA)</string>
     
-    <string name="download_manager_disabled">DownloadManager tidak aktif. Harap diaktifkan.</string>
+    <string name="download_manager_disabled">Manajer Unduhan tidak aktif. Harap diaktifkan.</string>
     <string name="cannot_access_storage">Tidak ada akses ke penyimpanan eksternal</string>
     <string name="file_cannot_be_saved">Berkas tidak dapat disimpan</string>
     <string name="camera_exception">Permasalahan dengan kamera</string>
