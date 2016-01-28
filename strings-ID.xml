@@ -565,10 +565,7 @@ Copyright notice must remain here if you're using any part of this code.-->
    
     <string name="credits_rom">Iulian Szidelo</string>
     <string name="credits_rom_description">Romania</string>
-    
-    <string name="credits_pol">Shabet Umar</string>
-    <string name="credits_pol_description">Indonesia</string>
-    
+
     <string name="help_trans">bantu Alih Bahasa</string>
     <string name="help_trans_hint">Tap untuk membantu menerjemahkan Folio ke bahasa anda.</string>
    
