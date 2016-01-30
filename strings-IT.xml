@@ -79,9 +79,9 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="twitter_home">Home</string>
     <string name="twitter_me">Io</string>
     <string name="switch_to_folio">Vai su Folio</string>
-    <string name="switch_to_gplus">Switch to Google+</string>
-    <string name="switch_to_gram">Switch to Instagram</string>
-    <string name="switch_to_tum">Switch to Tumblr</string>
+    <string name="switch_to_gplus">Passa a Google+</string>
+    <string name="switch_to_gram">Passa a Instagram</string>
+    <string name="switch_to_tum">Passa a Tumblr</string>
     
     <!-- Add ons -->
     <string name="addons">Social Add-ons</string>
