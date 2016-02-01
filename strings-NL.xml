@@ -439,7 +439,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="credits_settings">Credits</string>
     <string name="preference_category7">Aanpassingen</string>
     <string name="preference_about_category">Over</string>
-    <string name="preference_set_category">All Set?</string>
+    <string name="preference_set_category">Klaar?</string>
     <string name="preference_donate_category">Koop Folio Sleutel</string>
     <string name="preference_rest_category">Reset Folio Naar Standaard Instellingen</string>
     <string name="preference_category15">Folio Layout Instellingen</string>
