@@ -756,7 +756,8 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="remember_hint">Tine minte pozitia fluxului de informatii.</string>
     <string name="faq">Intrebari frecvente</string>    
     
-    
+    <string name="notify_log">Notification Log</string>
+    <string name="notify_log_hint">Save diagnostic notifications log? This deosn't allow Folio to collect any personal information.</string>
           
 </resources>
 
