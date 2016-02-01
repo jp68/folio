@@ -748,5 +748,7 @@ Copyright notice must remain here if you're using any part of this code.-->
     <string name="remember_hint">记住你的浏览位置</string>
     <string name="faq">FAQ\'s</string>
     
+    <string name="notify_log">Notification Log</string>
+    <string name="notify_log_hint">Save diagnostic notifications log? This deosn't allow Folio to collect any personal information.</string>
           
 </resources>
