@@ -334,8 +334,14 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="credits_brazilian">Vinícius Rubens Pedrinho</string>
     <string name="credits_brazilian_description">Português de Brasil</string>
     
-    <string name="credits_trukish">Vinícius Rubens Pedrinho</string>
-    <string name="credits_trukish_description">Português de Brasil</string>
+    <string name="credits_turk">Mehmet Çalışkan</string>
+    <string name="credits_turk_description">Türkçe</string>
+    
+    <string name="credits_fren">Jean Philippe</string>
+    <string name="credits_fren_description">Français</string>
+    
+    <string name="credits_pol">seba112</string>
+    <string name="credits_pol_description">Polski</string>
     
     <string name="help_trans">Aide à la traduction</string>
     <string name="help_trans_hint">Appuyez sur aide à la traduction, pour votre langue.</string>
