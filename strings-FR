@@ -50,7 +50,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
     <!-- Folio Drawer -->
     <string name="quickaccess">Accès rapide</string>
-    <string name="newsfeed">les plus récents</string>
+    <string name="newsfeed">Les plus récents</string>
     <string name="trending">Tendances</string>
     <string name="messages">Messages</string>
     <string name="topnews">Actualités à la Une</string>
