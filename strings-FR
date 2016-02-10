@@ -540,7 +540,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="addPage">Ajouter aux favoris</string>
     <string name="removePage">Supprimer des favoris</string>
     
-    <string name="remember_title">Nouvelles position RSS (Beta)</string>
-    <string name="remember_hint">Ce rappeler de la position RSS.</string>
+    <string name="remember_title">Position des nouvelles importantes.(Beta)</string>
+    <string name="remember_hint">Ce souvenir de la dernière position importante.</string>
 </resources>
 
