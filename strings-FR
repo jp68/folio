@@ -34,7 +34,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="license_success">Thème activé</string>
     <string name="license_failed">Thème désactivé</string>
     
-    <string name="show_fab">Afficher FAB</string>
+    <string name="show_fab">Bouton flottant</string>
     <string name="show_fab_hint">Afficher un bouton d\'action flottante pour poster des mises à jour du statut à Facebook via Folio.Cela va désactiver les thèmes Facebook et mises en page Facebook. Ceci est également très bogué à l\'heure actuelle. </string>
     
     <string name="loading_video">Chargement</string>
@@ -53,7 +53,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="newsfeed">les plus récents</string>
     <string name="trending">Tendances</string>
     <string name="messages">Messages</string>
-    <string name="topnews">Actualité à la Une</string>
+    <string name="topnews">Actualités à la Une</string>
     <string name="fbmenu">Menu Facebook</string>
     
     <string name="faved">Favoris</string>
@@ -63,8 +63,8 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="photos">Photos</string>
     
     <string name="reminders">Rappels</string>
-    <string name="events">Evénements</string>
-    <string name="onthisday">Ce jour la&#8230;</string>
+    <string name="events">Événements</string>
+    <string name="onthisday">Ce jour là&#8230;</string>
     <string name="saved">Enregistrer</string>
     
     <string name="prefs">Préférences</string>
@@ -85,7 +85,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="switch_to_tum">Tumblr</string>
     
     <!-- Add ons -->
-    <string name="addons">Ajouter reseau social</string>
+    <string name="addons">Ajouter un réseau social</string>
     <string name="addons_hint">Vous devez ajouter la clé pour utiliser Twitter.</string>
     <string name="enable_twitter">Activer Twitter</string>
     <string name="enable_google">Activer Google+</string>
@@ -95,39 +95,39 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <!-- Removals -->
     <string name="navigation_pref">Navigation articles</string>
     <string name="navigation_pref_hint">Personnaliser la navigation en supprimant des éléments que vous n\'utiliser pas dans Folio.</string>
-    <string name="recent_nav">Retirer les plus Recents</string>
-    <string name="top_nav">Retirer actualité a la une</string>
-    <string name="facebook_nav">Retirer Messages</string>
+    <string name="recent_nav">Retirer les plus récents</string>
+    <string name="top_nav">Retirer actualités à la une</string>
+    <string name="facebook_nav">Retirer messages</string>
     <string name="trending_nav">Retirer les tendances</string>
     <string name="friends_nav">Retirer les amis</string>
-    <string name="groups_nav">Retirer les Groupes</string>
-    <string name="pages_nav">Retirer les Pages</string>
-    <string name="photos_nav">Retirer les Photos</string>
+    <string name="groups_nav">Retirer les groupes</string>
+    <string name="pages_nav">Retirer les pages</string>
+    <string name="photos_nav">Retirer les photos</string>
     <string name="events_nav">Retirer les évènements</string>
-    <string name="onday_nav">Retirer ce jour la..</string>
+    <string name="onday_nav">Retirer ce jour là..</string>
     <string name="saved_nav">Retirer l\'enregistrement</string>
     
     <!-- News Feed -->
     <string name="news_feed_preferences">Nouvelles préférences RSS</string>
-    <string name="top_always">Actualités a la une</string>
+    <string name="top_always">Actualités à la une</string>
     <string name="top_always_hint">Charger les actualités lors du lancement Folio.</string>
     
     <!-- Fonts -->
     <string name="font_preference">Taille de la police Facebook</string>
     <string name="larger_font_hint">Augmenter la lisibilité en agrandissant la police Facebook.</string>
     <string name="font_set">Appuyez pour appliquer les changements.</string>
-    <string name="default_font">Taille normale</string>
-    <string name="medium_font">Taille moyenne</string>
-    <string name="large_font">Grande taille</string>
-    <string name="xl_font">Très grande taille</string>
-    <string name="xxl_font">Très très grande taille</string>
+    <string name="default_font">Normale</string>
+    <string name="medium_font">Moyenne</string>
+    <string name="large_font">Grande</string>
+    <string name="xl_font">Très grande</string>
+    <string name="xxl_font">Énorme</string>
     
     <string-array name="font_choice">
-       	<item>Taille normal</item>
-        <item>Taille moyenne</item>
-        <item>Taille grande</item>
-        <item>Très grande taille</item>
-        <item>Très très grande taille</item>
+       	<item>Normal</item>
+        <item>Moyenne</item>
+        <item>Grande</item>
+        <item>Très grande</item>
+        <item>Énorme</item>
                
     </string-array>
     
@@ -157,10 +157,10 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <!-- Save Image On Long Press -->
     
     
-    <string name="get_started">Connexion a Facebook</string>
+    <string name="get_started">Connexion à Facebook</string>
     <string name="send_feedback">Vos retours Folio</string>
     <string name="ok">OK</string>
-    <string name="applying_changes">Nettoyer le cache. Relancer Folio.</string>
+    <string name="applying_changes">Cache nettoyer, relancer Folio.</string>
       
     
     <string name="cancel">Annuler</string>
@@ -172,8 +172,8 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="site_preference_hint">Mode courant: %s.</string>
     
     
-    <string name="default_mode">Facebook Mobile</string>
-    <string name="basic_mode">Facebook Basique</string>
+    <string name="default_mode">Facebook mobile</string>
+    <string name="basic_mode">Facebook basique</string>
     <string name="desktop_mode">Mode bureau</string>        
   
     
@@ -190,11 +190,11 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="hello"></string>    
     <string name="cancelled">Annulation</string>    
     <string name="permission_not_granted">Impossible d\'effectuer l\'action sélectionnée car les autorisations ne sont pas accordées.</string>
-    <string name="image_chooser">Selecteur d\'image</string>
+    <string name="image_chooser">Sélecteur d\'image</string>
     <string name="loading_link">Ouverture avec Folio</string>   
     <string name="author">Created by Jorell Rutledge</string>    
     <string name="title_activity_settings">Paramètres</string>        
-    <string name="title_activity_about">A propos de Folio</string>
+    <string name="title_activity_about">À propos de Folio</string>
     <string name="title_activity_about_hint">Renseignez-vous sur les différentes bibliothèques utilisées. Obtenez sa source sur GitHub, rejoignez-nous sur Facebook et plus.</string>
     
     <string name="email_author">Envoyer vos commentaires</string>    
@@ -202,12 +202,12 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="no_network">You\'re not online.</string> <!-- You MUST include the \ in your translation. For example... ***You\'\re**** is spelled like that -->    
        
     <string name="share_link">Partager cet article</string>    
-    <string name="long_clicks">Clique long</string>    
-    <string name="long_clicks_description">Clique long sur l\'image pour l\'enregistrer.</string>
+    <string name="long_clicks">Appui long</string>    
+    <string name="long_clicks_description">Appui long sur l\'image pour l\'enregistrer.</string>
     
             
     <!-- Random Strings Part 2 -->
-    <string name="preference_category4">Folio Thèmes</string>
+    <string name="preference_category4">Thèmes Folio</string>
    
     
     
@@ -222,10 +222,10 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="hardware_acceleration">Hardware Acceleration</string> 
     <string name="credits_settings">Credits</string>
     <string name="preference_category7">Personnalisation</string>
-    <string name="preference_about_category">A propos</string>
-    <string name="preference_set_category">Tous ensemble?</string>
+    <string name="preference_about_category">À propos</string>
+    <string name="preference_set_category">Confirmer les changements</string>
     <string name="preference_donate_category">Acheter la clé Folio</string>
-    <string name="preference_rest_category">Remise a zéro des paramètres</string>
+    <string name="preference_rest_category">Remise à zéro des paramètres</string>
     <string name="preference_category15">Paramètres de mise en page Folio</string>
     <string name="preference_facebook_layouts">Facebook paramètres de présentation</string>
     
@@ -236,10 +236,10 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="credits_licenses_description">Licences de logiciels open source</string>
     <string name="clear_cache">Nettoyer le cache</string>  
     
-    <string name="clear_cache_title">Etes vous sur?</string> 
-    <string name="clear_cache_message">Appuyez sur OK pour effacer les données de Folio, vous serez également déconnecter.</string> 
+    <string name="clear_cache_title">Nettoyer le cache ?</string> 
+    <string name="clear_cache_message">Appuyez sur OK pour nettoyer le cache Folio, vous serez également déconnecter.</string> 
       
-    <string name="clear_cache_description">Clear Folio\'s data. This will also log you out.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
+    <string name="clear_cache_description">Nettoyer le cache, vous serez également deconnecter.</string> <!-- You MUST include the \ in your translation. For example... ***You\'re**** is spelled like that -->
         
     <string name="preferences_feedback">Envoyer un commentaire</string>
     <string name="preferences_feedback_description">Avez vous une question? Besoin d\'aide? Appuyez ici pour nous envoyer un email.</string>
@@ -320,7 +320,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
     <!-- All About Translations  -->
     
-    <string name="preference_category12">Translations</string> 
+    <string name="preference_category12">Traductions</string> 
            
     <string name="credits_italian">Fabio Catinella</string>
     <string name="credits_italian_description">Italiano</string>
@@ -337,8 +337,8 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     <string name="credits_trukish">Vinícius Rubens Pedrinho</string>
     <string name="credits_trukish_description">Português de Brasil</string>
     
-    <string name="help_trans">Help Translate</string>
-    <string name="help_trans_hint">Tap to help translate Folio into your language.</string>
+    <string name="help_trans">Aide à la traduction</string>
+    <string name="help_trans_hint">Appuyez sur aide à la traduction, pour votre langue.</string>
    
     
         
@@ -351,12 +351,12 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
     <string name="preference_category5">Général</string>
     <string name="activate_notifications">Notifications Facebook</string>
-    <string name="activate_messages">Message Notifications</string>
+    <string name="activate_messages">Notifications message</string>
     <string name="activate_friends">Demandes d\'amis</string>    
-    <string name="notifications_service_created">Notifications activer</string>
+    <string name="notifications_service_created">Notifications activées</string>
     <string name="notifications_settings">Notifications</string>
     <string name="all_notifications">Voir toutes notifications</string>
-    <string name="all_messages">Voir les Messages</string>
+    <string name="all_messages">Voir les messages</string>
     <string name="all_requests">Voir les demandes d\'amis</string>
     <string name="notification_sound">Son de notification</string>
     <string name="notification_sound_description">Par defaut: \u0020</string>
@@ -463,9 +463,9 @@ Copyright notice must remain here if you\'re using any part of this code.-->
    	<string name="quick_bar">Bar d\'action rapide</string>
    	<string name="quick_bar_hint">La barre d\'action rapide est visible</string>
    	
-   	<string name="quick_bar_on">Qui.</string>
+   	<string name="quick_bar_on">Barre d'action rapide activée</string>
    	
-   	<string name="quick_bar_off">La barre d\'action rapide est cacher.</string>
+   	<string name="quick_bar_off">La barre d\'action rapide est cachée.</string>
    	
    	       
     <string name="no_images">Désactiver les images</string>
@@ -494,7 +494,7 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
          
     <string name="interval_pref">Badge &amp; Sync Service</string>
-    <string name="interval_pref_description">Notifications et badges seront vérifiés chaque.</string>
+    <string name="interval_pref_description">Notifications et badges seront vérifiés chaque...</string>
           
                  
         <string-array name="update_interval">
@@ -534,13 +534,13 @@ Copyright notice must remain here if you\'re using any part of this code.-->
     
     <!-- New Strings Below -->
     
-    <string name="open_link_title">Open Links</string>
-    <string name="open_link_hint">Open external links in Folio</string>
+    <string name="open_link_title">Ouverture des liens</string>
+    <string name="open_link_hint">Ouvrir les liens avec le navigateur Folio</string>
     
-    <string name="addPage">Add to Favorites</string>
-    <string name="removePage">Remove remove from Favorites</string>
+    <string name="addPage">Ajouter aux favoris</string>
+    <string name="removePage">Supprimer des favoris</string>
     
-    <string name="remember_title">News Feed Position (Beta)</string>
-    <string name="remember_hint">Remember your News Feed postion.</string>
+    <string name="remember_title">Nouvelles position RSS (Beta)</string>
+    <string name="remember_hint">Ce rappeler de la position RSS.</string>
 </resources>
 
